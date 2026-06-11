@@ -1,1 +1,5 @@
 print("Hola amigos")
+print("Que tal les va la vida?")
+print("Espero que bien, este es mi primer archivo que subo a esta plataforma y me gustaria seguir aprendiendo y subiendo cosas mas dificiles")
+print("dudo mucho que alguien llegue a leer esto, pero bueno, es un gusto saludar a cualquiera que se dedique el tiempo en ver esto")
+print("Bueno, eso es todo por ahora, espero que tengan un buen dia y nos vemos en el proximo archivo")
